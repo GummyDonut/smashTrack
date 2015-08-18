@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/node_modules/*|assets/|src/detection/|test/perf/|build/|src/|src/math/|src/trackers/|examples/assets/|**/bower_components/*|examples/assets/fish_tank/|test/|test/utils/|src/pose/|src/detection/training/haar/|src/features/|**/*.min.js|src/utils/|build/data/" kind="src" path=""/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="assets"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js|data/" kind="src" path="build"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="build/data"/>
+	<classpathentry excluding="**/bower_components/*|fish_tank/|**/node_modules/*|**/*.min.js" kind="src" path="examples/assets"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="examples/assets/fish_tank"/>
+	<classpathentry excluding="math/|utils/|trackers/|detection/training/haar/|**/bower_components/*|**/node_modules/*|pose/|**/*.min.js|detection/|features/" kind="src" path="src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|training/haar/|**/*.min.js" kind="src" path="src/detection"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/detection/training/haar"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/features"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/math"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/pose"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/trackers"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/utils"/>
+	<classpathentry excluding="utils/|**/bower_components/*|**/node_modules/*|perf/|**/*.min.js" kind="src" path="test"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="test/perf"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="test/utils"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
